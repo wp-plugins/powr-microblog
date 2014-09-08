@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Microblog
     Plugin URI: http://www.powr.io
-    Description: Showcase short articles, photos, videos, and more Add the widget to your theme, or create a Microblog on ANY page or post by using the shortcode [powr-microblog]. Then, simply visit your site and click the settings icon to customize your Microblog right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Showcase articles, photos, videos, and more! Add the widget to your theme, or create a Microblog on ANY page or post by using the shortcode [powr-microblog]. Then, simply visit your site and click the settings icon to customize your Microblog right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
