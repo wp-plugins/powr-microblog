@@ -23,7 +23,7 @@ First, download, install, and activate POWr Microblog. Then drop the widget anyw
 = <a href='http://www.powr.io/tutorials/how-to-add-microblog-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Add and arrange unlimited articles, photos, videos, and more in a beautiful Pinterest-style gallery!
+* Add and arrange articles, photos, videos, and more in a beautiful Pinterest-style gallery!
 * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
 * Easily customize layout, sizing, and spacing.
 * Built-in links to share on Facebook, Twitter, Google+, and more.
@@ -35,6 +35,7 @@ First, download, install, and activate POWr Microblog. Then drop the widget anyw
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 
 == Installation ==
