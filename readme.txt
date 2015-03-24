@@ -5,7 +5,7 @@ Donate link: http://powr.io/
 Tags: microblog, pinterest-blog, pinterest style layout, microblog widget, microblog plugin, mobile responsive, online gallery, art gallery, upload pictures, photo upload, upload photo, file upload, jquery gallery, media gallery, video gallery, event gallery, multimedia gallery, responsive web design, personalized, customize, optimize, sidebar, drag and drop, WYSIWYG, graphic artist, designer tools
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -92,6 +92,8 @@ Improved loading speed
 = 1.3 =
 Easily add POWr plugins right from the text editor.
 
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
 == Changelog ==
@@ -106,5 +108,8 @@ Easily add POWr plugins right from the text editor.
 
 = 1.3 =
 Easily add POWr plugins right from the text editor.
+
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
