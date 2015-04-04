@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Showcase articles, images, videos, and more!
 
 == Description ==
-[youtube https://youtu.be/hsrCd82pLlM] Showcase articles, images, videos, and more!
+[youtube https://www.youtube.com/watch?v=hsrCd82pLlM] Showcase articles, images, videos, and more!
 <br>
 <br>
 POWr Microblog is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
